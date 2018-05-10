@@ -113,7 +113,7 @@ footer small {
     width: 185px;
     display: block;
     text-align: center;
-    text-height : 50px;
+    line-height : 50px;
     margin-top: 20px;
     border-radius: 5px;
     border: 3px solod #009cd3;
